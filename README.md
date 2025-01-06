@@ -1,6 +1,6 @@
 # Sequence Detector (Moore FSM) Project
 
-This project implements a **Sequence Detector** using a Moore Finite State Machine (FSM) in Verilog. The system detects a predefined sequence in a serial input stream and asserts an output signal when the sequence is detected. The project includes the Verilog module and a testbench for simulation.
+This project implements a **Sequence Detector** using a Moore Finite State Machine (FSM) in Verilog. The system detects a predefined sequence in a serial input stream and asserts an output signal when the sequence is detected. The project includes the Verilog module and a testbench for simulation. [Report](Task2_Team12.pdf)
 ![image](https://github.com/user-attachments/assets/6570f571-082b-4568-88e9-7c9c7da72d35)
 
 ## Table of Contents
